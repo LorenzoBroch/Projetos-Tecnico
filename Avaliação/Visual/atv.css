@@ -1,0 +1,70 @@
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: white;
+}
+
+p {
+    margin: 50px;
+}
+
+#Penguins {
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+#a {
+    position: relative;
+    margin-left: 10%;
+    color: red;
+    background-color: orange;
+}
+
+#b {
+    position: relative;
+    margin-left: 20%;
+    color: orange;
+    background-color: red;
+}
+
+#c {
+    position: relative;
+    margin-left: 30%;
+    color: yellow;
+    background-color: green;
+}
+
+#d {
+    position: relative;
+    margin-left: 40%;
+    color: green;
+    background-color: yellow;
+}
+
+#e {
+    position: relative;
+    margin-left: 50%;
+    color: blue;
+    background-color: purple;
+}
+
+#f {
+    position: relative;
+    margin-left: 60%;
+    color: purple;
+    background-color: blue;
+}
+
+#g {
+    position: relative;
+    margin-left: 70%;
+    color: blueviolet;
+    background-color: pink;
+}
+
+#PenguinsDois {
+    display:flex;
+    justify-content: center;
+}
