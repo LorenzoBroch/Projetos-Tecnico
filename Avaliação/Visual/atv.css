@@ -9,6 +9,11 @@ p {
     margin: 50px;
 }
 
+/* section img {
+    mix-blend-mode: multiply;
+}
+*/
+
 #Penguins {
     display:flex;
     justify-content: center;
