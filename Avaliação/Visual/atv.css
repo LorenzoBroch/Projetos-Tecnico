@@ -68,3 +68,14 @@ p {
     display:flex;
     justify-content: center;
 }
+
+#butao {
+    display:flex;
+    justify-content: center;
+
+    
+}
+
+a {
+    color:aliceblue;
+}
